@@ -9,8 +9,6 @@ class Workwork < Formula
   sha256 "fd71a74b717e5ad4ed67a8ace4ec7fa0f0e8c148de99d31d6ea8760fc93f1ca1"
   license "Apache-2.0"
 
-  # depends_on "cmake" => :build
-
   def install
     bin.install "ww"
   end
