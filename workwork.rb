@@ -6,7 +6,7 @@ class Workwork < Formula
   homepage "https://github.com/shenguanjiejie/workwork"
   url "https://github.com/shenguanjiejie/workwork/releases/download/v0.0.2/workwork_0.0.2_darwin.tar.gz"
   version "0.0.2"
-  sha256 "1fddd3fb797980ecd6e79acc430d2285c8c1a379efe6fc8f4983b68a7987cb2e"
+  sha256 "fd71a74b717e5ad4ed67a8ace4ec7fa0f0e8c148de99d31d6ea8760fc93f1ca1"
   license "Apache-2.0"
 
   # depends_on "cmake" => :build
