@@ -4,9 +4,9 @@
 class Workwork < Formula
   desc "开发/测试常用工具CLI"
   homepage "https://github.com/shenguanjiejie/workwork"
-  url "https://github.com/shenguanjiejie/workwork/releases/download/v0.0.3/workwork_0.0.3_darwin.tar.gz"
-  version "0.0.3"
-  sha256 "2efa9756356926f51339cc35da2b57ee41e9c1af1a411e0e69c7683ae82dd23e"
+  url "https://github.com/shenguanjiejie/workwork/releases/download/v1.0.1/workwork_1.0.1_darwin.tar.gz"
+  version "1.0.1"
+  sha256 "fc4e0e6ecffdc4d9d40cbd24c57753b6f14b47fb361c08def9a5fe8f3a1f4671"
   license "Apache-2.0"
 
   def install
